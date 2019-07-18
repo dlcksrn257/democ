@@ -1,0 +1,29 @@
+\t (00:00:17) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:17)     Journal start - Thu Jul 18 10:40:39 2019
+\t (00:00:17)         Host=DESKTOP-0CCQGI6 User=user Pid=7792 CPUs=4
+\t (00:00:17) CmdLine= allegro.exe -p .
+\t (00:00:17) 
+\d (00:00:17) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/democ/democ2.brd
+\i (00:00:18) signalintegrity 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 1000.3 3212.1
+\i (00:00:18) trapsize 160
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 1048.6 3302.0
+\i (00:00:19) trapsize 321
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 3217.1 3103.3
+\i (00:00:19) trapsize 642
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 4552.6 3873.5
+\i (00:00:20) trapsize 321
+\i (00:00:29) pick grid -1714.1 1768.0
+\t (00:00:29) last pick:  -1725.0 1775.0
+\i (00:00:38) pick grid -1155.6 3847.9
+\t (00:00:38) last pick:  -1150.0 3850.0
+\i (00:00:38) exit 
+\t (00:00:39)     Journal end - Thu Jul 18 10:41:01 2019
